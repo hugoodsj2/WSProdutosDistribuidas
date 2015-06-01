@@ -28,3 +28,32 @@ c:\users\hugo\documents\visual studio 2013\Projects\WSProdutos\WSProdutos\bin\Sy
 c:\users\hugo\documents\visual studio 2013\Projects\WSProdutos\WSProdutos\obj\Debug\WSProdutos.dll
 c:\users\hugo\documents\visual studio 2013\Projects\WSProdutos\WSProdutos\obj\Debug\WSProdutos.pdb
 C:\Users\Hugo\documents\visual studio 2013\Projects\WSProdutos\WSProdutos\obj\Debug\WSProdutos.csprojResolveAssemblyReference.cache
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\WSProdutos.dll.config
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\WSProdutos.dll
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\WSProdutos.pdb
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\EntityFramework.dll
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\Microsoft.Web.Infrastructure.dll
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\Newtonsoft.Json.dll
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\System.Net.Http.Formatting.dll
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\System.Web.Helpers.dll
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\System.Web.Http.dll
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\System.Web.Http.WebHost.dll
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\System.Web.Mvc.dll
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\System.Web.Razor.dll
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\System.Web.WebPages.Deployment.dll
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\System.Web.WebPages.dll
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\System.Web.WebPages.Razor.dll
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\EntityFramework.xml
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\Newtonsoft.Json.xml
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\System.Net.Http.Formatting.xml
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\System.Web.Helpers.xml
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\System.Web.Http.xml
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\System.Web.Http.WebHost.xml
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\System.Web.Mvc.xml
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\System.Web.Razor.xml
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\System.Web.WebPages.xml
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\System.Web.WebPages.Deployment.xml
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\bin\System.Web.WebPages.Razor.xml
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\obj\Debug\WSProdutos.dll
+C:\Nova pasta\WSProdutosDistribuidas\WSProdutos\obj\Debug\WSProdutos.pdb

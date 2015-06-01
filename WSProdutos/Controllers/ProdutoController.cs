@@ -32,7 +32,14 @@ namespace WSProduto.Controllers
         [AllowCrossSiteJson]
         public JsonResult Listar()
         {
-            return Json(db.Produto.ToList(), JsonRequestBehavior.AllowGet);
+            List<Produto> listaProduto = db.Produto.ToList();
+            if(listaProduto.Count > 0)
+            {
+                return Json(db.Produto.ToList(), JsonRequestBehavior.AllowGet);
+            }
+            else {
+                return Json(new { mens = "Não existe produtos cadastrados." }, JsonRequestBehavior.AllowGet);
+            }
         }
 
         /// <summary>
