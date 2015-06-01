@@ -42,6 +42,7 @@ namespace WSProduto.Controllers
         /// <param name="codigo">Codigo do produto.</param>
         /// <returns>JSON com os detalhes do produto procurado.</returns>
         [HttpPost]
+        [WebMethod]
         [AllowCrossSiteJson]
         public JsonResult DetalhesProduto(string nome = "", string codigo = "")
         {   
@@ -62,6 +63,7 @@ namespace WSProduto.Controllers
         /// <param name="codigo">Codigo do produto a ser pesquisado.</param>
         /// <returns>JSON com o nome do produto e a quantidade em estoque.</returns>
         [HttpPost]
+        [WebMethod]
         [AllowCrossSiteJson]
         public JsonResult ConsultarEstoque(string codigo = "")
         {
@@ -111,6 +113,7 @@ namespace WSProduto.Controllers
         /// <param name="estoque">Quantidade a ser alterada no estoque.</param>
         /// <returns></returns>
         [HttpPost]
+        [WebMethod]
         [AllowCrossSiteJson]
         public JsonResult AlterarEstoque(string codigo,int estoque)
         {
