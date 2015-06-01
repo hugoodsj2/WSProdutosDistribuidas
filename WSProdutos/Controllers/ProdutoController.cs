@@ -5,6 +5,7 @@ using System.Data.Entity;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Web.Services;
 using WSProdutos.Models;
 
 namespace WSProduto.Controllers
@@ -27,6 +28,7 @@ namespace WSProduto.Controllers
         /// </summary>
         /// <returns>Lista JSON com todos produtos.</returns>
         [HttpPost]
+        [WebMethod]
         [AllowCrossSiteJson]
         public JsonResult Listar()
         {
@@ -85,6 +87,7 @@ namespace WSProduto.Controllers
         /// <param name="produto">Form com os dados do produto (codigo,nome,descricao,preco,categoria,estoque)</param>
         /// <returns>JSON com o novo produto cadastrado.</returns>
         [HttpPost]
+        [WebMethod]
         [AllowCrossSiteJson]
         public JsonResult NovoProduto(Produto produto)
         {
